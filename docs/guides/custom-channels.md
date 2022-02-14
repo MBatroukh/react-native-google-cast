@@ -4,7 +4,7 @@ title: Custom Channels
 sidebar_label: Custom Channels
 ---
 
-If you've built a [custom web receiver](https://developers.google.com/cast/docs/web_receiver/basic) or an [Android TV receiver](https://developers.google.com/cast/docs/android_tv_receiver) and want to send custom messages between your Cast sender (the mobile app you're building with this library) and the Cast receiver (on Chromecast or Android TV), you need to establist a custom channel.
+If you've built a [custom web receiver](https://developers.google.com/cast/docs/web_receiver/basic) or an [Android TV receiver](https://developers.google.com/cast/docs/android_tv_receiver) and want to send custom messages between your Cast sender (the mobile app you're building with this library) and the Cast receiver (on Chromecast or Android TV), you need to establish a custom channel.
 
 > Don't forget to set your custom receiver app ID as described in the [Setup](../getting-started/setup).
 
